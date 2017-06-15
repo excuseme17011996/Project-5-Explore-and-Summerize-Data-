@@ -2,4 +2,3 @@
 2. Udacity Example project (https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html)
 3. Blog : (https://rstudio-pubs-static.s3.amazonaws.com/280890_7cf7e3ee01434fc0b2a34ca5c85ee04b.html)
 5. Github repo 1 : (https://github.com/lyvinhhung/Udacity-Data-Analyst-Nanodegree/tree/master/p4%20-%20Explore%20and%20Summarize%20Data%20with%20R)
-6. Github repo 2 : (https://github.com/bhavya16/P4-Explore-and-Summarize-Data-settings)
